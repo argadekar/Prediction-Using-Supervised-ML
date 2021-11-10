@@ -1,0 +1,2 @@
+# Prediction-Using-Supervised-ML
+In this project, I have done Prediction Using a Simple Linear Regression Model of Machine Learning. To achieve the Accurate Prediction based on the problem statement I have Used Several Libraries of Python. Such as 1. Pandas Library-To import Dataframe 2. Numpy Library-For Numerical Calculation 3. Matplotlib Library-to plot Regression 4. Scikit Learn Library- For Prediction and Metrics
